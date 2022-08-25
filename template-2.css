@@ -3,7 +3,7 @@
 :root {
     --menu-background: #dadada;
     --appointment-background: #fff;
-    --banner-backgroundr: #2F728C;
+    --banner-backgroundr: #554596;
     --bio-backgroundr: #FFFFFF;
     --experience-backgroundr: #EAF1F4;
     --achievement-backgroundr: #FFFFFF;
@@ -40,7 +40,7 @@
     --doctor-name-color: #FFFFFF;
     --doctor-description-font-family: "Poppins Regular", sans-serif;
     --doctor-description-font-color: #FFFFFF;
-    --social-icon-color: #2F728C;
+    --social-icon-color: #554596;
     --social-icon-background-color: #FFFFFF;
     --social-icon-text-color: #FFFFFF;
 
@@ -75,12 +75,13 @@
     --chamber-time-font-color: #FFFFFF;
     --chamber-hospital-add-font-family: 'Poppins Medium' sans-serif;
     --chamber-hospital-add-font-color: #646363;
-    --chamber-time-background-color: #2F728C;
+    --chamber-time-background-color: #554596;
 
 
 
 
-    --underline-background-color: #266E88;
+
+    --underline-background-color: #554596;
 
 }
 
